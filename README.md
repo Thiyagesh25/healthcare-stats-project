@@ -34,8 +34,21 @@ This project applies various **statistical tests** and **visualizations** to der
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/healthcare-statistics-analysis.git
+## Results
+
+- Statistical summary of healthcare parameters
+
+- Correlation between blood pressure, cholesterol, and recovery status
+
+- Chi-square results showing relationships between categorical variables
+
+## Key Learning
+
+This project helps understand:
+
+- How to apply statistics in healthcare data
+
+- Real-world use of t-test and chi-square test
+
+- Building insights from small medical datasets
 
